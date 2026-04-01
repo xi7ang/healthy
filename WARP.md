@@ -75,7 +75,7 @@ wc -l 2025*.md
 
 ### Monthly Resource Files
 - Use consistent formatting with descriptive titles
-- Include proper attribution with "超过100T资料总站网站-doc.869hr.uk" suffix
+- Keep resource titles clean; do not append obsolete branding or domain suffixes. If a site link is needed, use https://xi7ang.github.io
 - Organize resources by category (Fitness, Nutrition, Mental Health, Medical)
 - Provide both Chinese and English descriptions where applicable
 - Include safety disclaimers for health advice
